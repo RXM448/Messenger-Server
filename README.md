@@ -1,7 +1,7 @@
 # Messenger-Server
-Group project during year in computer science course 
+Group project during year in computer science course as a demonstration of teamwork and coding ability 
 
-Personally listed as RXM448 for the purpose of authoring files 
+Personally listed as RXM448 for the purpose of authoring files and mainly worked on aspects of the clinet, server, and communication between them. 
 
 The scope of the project is to design and implement a simple chat program that allows users
 to login, chat to other users and access previous chat histories offering real-time text
